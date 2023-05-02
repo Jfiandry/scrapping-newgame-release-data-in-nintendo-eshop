@@ -1,0 +1,1 @@
+# scrapping-newgame-release-data-in-nintendo-eshop
